@@ -2,7 +2,7 @@
 
 Red Hat Ansible Tower (build from the [Open Source project, AWX](https://github.com/ansible/awx)) helps you scale out your Ansible automation. Running Ansible from a command-line interface is all good, until you start to automate more things. When you do that, you get a number of concerns, primarily:
 
->How can I control who can run what playbooks where?
+>How can I control who can run what playbooks and where?
 
 This is a central concerns which stems from the fact that sharing access is difficult. Because of this, some companies don't even allow people to share access, because of (valid) security concerns, security compliance requirements on separation of duty, and more.
 
